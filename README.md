@@ -12,15 +12,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=FaisalTabrez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="FaisalTabrez Trophies" />
   </a>
+<!-- 3D Contribution Grid -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
-
 ---
 
 ### About Me
