@@ -26,12 +26,11 @@ located_in: Hyderabad, India
 education: B.Tech Student
 major: Bioinformatics
 current_focus:
-  - 🧬 Genomic Data Science & Representation Learning
-  - ⚡ Edge-Computing Frameworks (Jetson Nano/Orin)
-  - 🛠️ Systems-Level Programming (C/Python)
-  - 🌊 Deep-Sea eDNA Taxonomic Inference
+  -  Genomic Data Science & Representation Learning
+  -  Edge-Computing Frameworks (Jetson Nano/Orin)
+  -  Systems-Level Programming (C/Python)
+  -  Deep-Sea eDNA Taxonomic Inference
 interests:
   - Designing Streaming Pipelines & Vector Databases
   - Hackathons & CTF Competitions
-  - Open Source Contributions
-fun_fact: "I optimize embedding pipelines to stop memory leaks by day, and write deadlock avoidance algorithms by night 💻"
+  - Open Source Contributions"
