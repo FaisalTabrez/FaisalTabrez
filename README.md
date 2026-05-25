@@ -33,5 +33,4 @@ current_focus:
 interests:
   - Designing Streaming Pipelines & Vector Databases
   - Hackathons & CTF Competitions
-  - Open Source Contributions
-"
+  - Open Source Contributions"
