@@ -7,7 +7,12 @@
     <a href="https://github.com/FaisalTabrez?tab=followers"><img src="https://img.shields.io/github/followers/FaisalTabrez?label=Followers&style=flat&color=2ecc71&logo=github" alt="Followers" /></a>
     <a href="https://github.com/FaisalTabrez"><img src="https://img.shields.io/github/stars/FaisalTabrez?style=flat&color=f39c12&logo=github" alt="Stars" /></a>
   </p>
-
+<!-- GitHub Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FaisalTabrez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="FaisalTabrez Trophies" />
+  </a>
+</div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/output/github-contribution-grid-snake.svg">
@@ -18,7 +23,7 @@
 
 ---
 
-### 🎭 About Me
+### About Me
 
 ```yaml
 name: Md. Faisal Tabrez
@@ -33,4 +38,5 @@ current_focus:
 interests:
   - Designing Streaming Pipelines & Vector Databases
   - Hackathons & CTF Competitions
-  - Open Source Contributions"
+  - Open Source Contributions
+"
