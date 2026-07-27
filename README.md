@@ -117,7 +117,13 @@
 ### 📊 3D Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=FaisalTabrez&theme=dark" alt="3D GitHub Contributions" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions Workflow" />
 </div>
 
 <br />
