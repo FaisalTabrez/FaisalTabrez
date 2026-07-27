@@ -16,22 +16,34 @@
 
 ### 🧬 About Me
 
-```yaml
-name: Md. Faisal Tabrez
-education: B.Tech Student (Bioinformatics)
-location: Hyderabad, India
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👨‍💻 Profile Overview</h4>
+      <p>
+        I am a <b>Bioinformatics B.Tech student</b> based in 📍 <b>Hyderabad, India</b>, specializing at the intersection of <b>Genomic Data Science</b>, <b>Systems Programming</b>, and <b>Embedded AI</b>.
+      </p>
+      <p>
+        I focus on building low-latency, offline-first architectures that bridge massive biological sequence datasets with high-performance vector search and edge hardware.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Core Research & Focus</h4>
+      <ul>
+        <li>🧬 <b>Genomic AI:</b> Sequence representation learning & deep-sea eDNA inference</li>
+        <li>📟 <b>Edge Computing:</b> Deploying models on NVIDIA Jetson Nano/Orin platforms</li>
+        <li>🚀 <b>High-Performance RAG:</b> C++ engines with FAISS & <code>llama.cpp</code></li>
+        <li>🏎️ <b>Vector Databases:</b> Streaming data pipelines & similarity search engines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-current_focus:
-  - Genomic Data Science & Representation Learning
-  - Edge-Computing Frameworks (NVIDIA Jetson Nano/Orin)
-  - High-Performance Offline RAG Systems (C++ / FAISS / llama.cpp)
-  - Deep-Sea eDNA Taxonomic Inference
-
-interests:
-  - Designing Streaming Pipelines & Vector Databases
-  - Hackathons & CTF Competitions
-  - Open Source Contributions
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/Domain-Bioinformatics%20%26%20Genomic%20AI-2ecc71?style=for-the-badge&logo=dna&logoColor=white" alt="Domain" />
+  <img src="https://img.shields.io/badge/Architecture-C%2B%2B%20%26%20Offline%20RAG-00f2fe?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Hardware-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
+</div>
 
 ---
 
