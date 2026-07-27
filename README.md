@@ -10,11 +10,18 @@
 <!-- GitHub Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FaisalTabrez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="FaisalTabrez Trophies" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=FaisalTabrez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="FaisalTabrez Trophies" />
   </a>
+</div>
+
 <!-- 3D Contribution Grid -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+</div>
+
+<!-- Dynamic Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalTabrez&theme=tokyo-night" alt="GitHub Activity Graph" />
 </div>
 ---
 
@@ -33,4 +40,5 @@ current_focus:
 interests:
   - Designing Streaming Pipelines & Vector Databases
   - Hackathons & CTF Competitions
-  - Open Source Contributions"
+  - Open Source Contributions
+```
