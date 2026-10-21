@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Faisal Tabrez — field notes</title>
+  <desc id="desc">An editorial profile cover in warm paper, forest ink, and acid green. Oversized lettering sits beside a scientific drawing that connects a DNA double helix to a computational network.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D6EDC2" stroke-opacity=".1" />
+    </pattern>
+    <clipPath id="panel"><rect x="766" y="0" width="434" height="504" /></clipPath>
+  </defs>
+
+  <!-- Self-contained artwork: no external fonts, scripts, or images. -->
+  <rect width="1200" height="600" fill="#F3F0E7" />
+  <path d="M40 74H724" stroke="#172D25" stroke-opacity=".25" />
+  <g font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#172D25">
+    <text x="42" y="44">FAISALTABREZ / FIELD NOTES</text>
+    <text x="724" y="44" text-anchor="end">VOL. 01</text>
+  </g>
+  <g fill="#172D25" font-family="'Arial Black','Arial',sans-serif" font-weight="900" letter-spacing="-9">
+    <text x="32" y="227" font-size="166" textLength="660" lengthAdjust="spacingAndGlyphs">FAISAL</text>
+    <text x="32" y="390" font-size="166" textLength="682" lengthAdjust="spacingAndGlyphs">TABREZ.</text>
+  </g>
+  <g stroke="#D54B32" stroke-width="4">
+    <path d="M705 101V133M689 117H721M694 106L716 128M694 128L716 106" />
+  </g>
+  <path d="M42 421H724" stroke="#172D25" stroke-opacity=".25" />
+  <text x="42" y="459" fill="#172D25" font-family="'Courier New',monospace" font-size="17" letter-spacing="1.2">COMPUTER SCIENCE. BIOLOGICAL CURIOSITY.</text>
+
+  <!-- Specimen panel: sequence becomes a graph, then a circuit. -->
+  <rect x="766" width="434" height="504" fill="#172D25" />
+  <rect x="766" width="434" height="504" fill="url(#grid)" />
+  <g clip-path="url(#panel)">
+    <g stroke="#D7FF73" stroke-opacity=".23">
+      <circle cx="983" cy="254" r="178" />
+      <circle cx="983" cy="254" r="143" />
+      <circle cx="983" cy="254" r="108" stroke-dasharray="3 9" />
+      <ellipse cx="983" cy="254" rx="178" ry="74" transform="rotate(-52 983 254)" />
+      <path d="M783 254H1183M983 64V444" stroke-dasharray="3 9" />
+    </g>
+    <path d="M839 168C867 168 886 128 913 128S958 168 985 168S1030 128 1057 128S1102 168 1129 168" stroke="#D7FF73" stroke-width="4" />
+    <path d="M839 128C867 128 886 168 913 168S958 128 985 128S1030 168 1057 168S1102 128 1129 128" stroke="#F3F0E7" stroke-width="2" />
+    <g stroke="#D7FF73" stroke-opacity=".65" stroke-width="1.5">
+      <path d="M841 130V166M852 135V161M865 144V152M900 131V165M913 128V168M926 132V164M972 164V132M985 168V128M998 164V132M1044 132V164M1057 128V168M1070 132V164M1116 163V133M1129 168V128" />
+    </g>
+    <g stroke="#D7FF73" stroke-width="1.5">
+      <path d="M877 207L926 244L1000 211L1079 246L1124 212M877 207L859 287L926 244L966 314L1000 211M1079 246L966 314L1087 324L1124 212M926 244L1087 324M859 287L966 314L926 375L1087 324L1092 378" />
+      <path d="M926 375V404H960M1092 378V404H1024" stroke-opacity=".6" />
+    </g>
+    <g fill="#D7FF73" stroke="#172D25" stroke-width="5">
+      <circle cx="877" cy="207" r="7" /><circle cx="926" cy="244" r="10" />
+      <circle cx="1000" cy="211" r="7" /><circle cx="1079" cy="246" r="9" />
+      <circle cx="1124" cy="212" r="6" /><circle cx="859" cy="287" r="7" />
+      <circle cx="966" cy="314" r="13" /><circle cx="1087" cy="324" r="8" />
+      <circle cx="926" cy="375" r="6" /><circle cx="1092" cy="378" r="6" />
+    </g>
+    <circle cx="966" cy="314" r="22" stroke="#D7FF73" stroke-opacity=".5" />
+    <rect x="960" y="382" width="64" height="45" rx="2" fill="#D7FF73" />
+    <path d="M972 393H1012V416H972Z" stroke="#172D25" />
+    <g stroke="#D7FF73" stroke-width="2">
+      <path d="M971 375V382M985 375V382M999 375V382M1013 375V382M971 427V434M985 427V434M999 427V434M1013 427V434M953 391H960M953 404H960M953 417H960M1024 391H1031M1024 404H1031M1024 417H1031" />
+    </g>
+  </g>
+  <g fill="#D7FF73" font-family="'Courier New',monospace" font-size="12" letter-spacing="1.5">
+    <text x="793" y="44">FIG. 01</text>
+    <text x="1173" y="44" text-anchor="end">LIFE → LOGIC</text>
+    <text x="793" y="476">SEQUENCE / SIGNAL / SYSTEM</text>
+  </g>
+  <g stroke="#D7FF73" stroke-width="1.5">
+    <path d="M783 74H796M789.5 67.5V80.5M1170 74H1183M1176.5 67.5V80.5M783 450H796M789.5 443.5V456.5M1170 450H1183M1176.5 443.5V456.5" />
+  </g>
+
+  <rect y="504" width="1200" height="96" fill="#D7FF73" />
+  <g fill="#172D25" font-family="Arial,sans-serif" font-weight="700" font-size="25" letter-spacing="1">
+    <text x="42" y="564">BIOLOGY</text>
+    <text x="256" y="564" font-size="32" font-weight="400">×</text>
+    <text x="318" y="564">INTELLIGENCE</text>
+    <text x="648" y="564" font-size="32" font-weight="400">×</text>
+    <text x="710" y="564">SYSTEMS</text>
+  </g>
+  <path d="M1101 565L1155 535M1133 530L1157 534L1153 558" stroke="#172D25" stroke-width="3" />
+</svg>

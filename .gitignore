@@ -1,0 +1,5 @@
+# Local README previews and browser captures.
+output/
+.playwright-cli/
+__pycache__/
+*.py[cod]

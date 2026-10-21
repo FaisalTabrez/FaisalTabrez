@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Refresh profile artwork
 
 on:
   schedule:
@@ -7,21 +7,53 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/profile-3d.yml
+      - .github/scripts/render-contributions.py
+      - .github/scripts/render-code-genome.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-artwork
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate code genome, contribution graphs, and snake
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi382/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Render activity chart and 3D contribution landscape
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+        run: python .github/scripts/render-contributions.py --username "$USERNAME"
+      - name: Sequence the public code genome
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python .github/scripts/render-code-genome.py --username "$USERNAME"
+      - name: Animate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/generated/snake.svg?color_snake=%23d54b32&color_dots=%23ebedf0,%23bacd9a,%2396b858,%2363863f,%23172d25
+            assets/generated/snake-dark.svg?palette=github-dark&color_snake=%23d7ff73&color_dots=%23294238,%23416543,%23648d4c,%2399c45a,%23d7ff73
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save refreshed artwork
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898207+github-actions[bot]@users.noreply.github.com
-          git add -A .
-          git commit -m "generated profile 3d contrib" || exit 0
-          git push
+          git add -- assets/generated/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile contribution artwork"
+            git push
+          fi

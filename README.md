@@ -1,139 +1,180 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/field-notes.svg" width="1200" alt="Md. Faisal Tabrez. Field notes at the intersection of biology, intelligence, and systems. An illustrated journey from a DNA sequence to a computational network." />
+</p>
 
-  <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Md.+Faisal+Tabrez+👋;B.Tech+Student+%7C+Bioinformatics;Genomic+Data+Science+%26+eDNA;Edge+Computing+%26+Embedded+AI;High-Performance+C%2B%2B+%26+Python+Systems" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1100&amp;color=D7FF73&amp;background=172D25&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=60&amp;lines=B.Tech+CSE+%2F+Curious+about+living+systems;Bioinformatics+%2F+Machine+Learning+%2F+Systems;From+sequence+to+signal+to+software" width="1000" alt="B.Tech CSE student exploring bioinformatics, machine learning, and systems." />
+</p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=FaisalTabrez&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://github.com/FaisalTabrez?tab=followers"><img src="https://img.shields.io/github/followers/FaisalTabrez?label=Followers&style=flat&color=2ecc71&logo=github" alt="Followers" /></a>
-    <a href="https://github.com/FaisalTabrez"><img src="https://img.shields.io/github/stars/FaisalTabrez?style=flat&color=f39c12&logo=github" alt="Stars" /></a>
-    <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat&logo=googlemaps" alt="Location" />
-  </p>
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#code-genome">Code genome</a> &nbsp; / &nbsp;
+  <a href="#the-workbench">The workbench</a> &nbsp; / &nbsp;
+  <a href="#github-in-motion">GitHub in motion</a> &nbsp; / &nbsp;
+  <a href="https://github.com/FaisalTabrez?tab=repositories">All repositories</a> &nbsp; / &nbsp;
+  <a href="mailto:mfaisaltabrez_cse230535@mgit.ac.in">Get in touch ↗</a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-d7ff73?style=for-the-badge&amp;labelColor=172d25" alt="B.Tech in Computer Science and Engineering" />
+  <a href="https://github.com/FaisalTabrez?tab=followers"><img src="https://img.shields.io/github/followers/FaisalTabrez?style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS&amp;labelColor=172d25&amp;color=d7ff73" alt="GitHub followers" /></a>
+  <a href="https://github.com/FaisalTabrez?tab=repositories"><img src="https://img.shields.io/github/stars/FaisalTabrez?style=for-the-badge&amp;logo=github&amp;label=STARS&amp;labelColor=172d25&amp;color=d7ff73" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=FaisalTabrez&amp;style=for-the-badge&amp;color=172d25&amp;label=PROFILE+VIEWS" alt="Profile views recorded by the badge service" />
+</p>
 
----
+<br />
 
-### 🧬 About Me
+### Computer science. Biological curiosity.
 
-<table align="center" width="100%">
+I'm **Md. Faisal Tabrez**, a **B.Tech student in Computer Science and Engineering (CSE)** based in **Hyderabad, India**, with a strong interest in **bioinformatics**. I explore genomic data science, machine learning, and systems programming—turning interesting questions into computational experiments and building the tools to investigate them.
+
+My interests run from **environmental DNA and microbial networks** to **spiking neural networks, offline AI, and edge computing**. The common thread: understanding the signal, questioning the model, and making the system work.
+
+<br />
+
+## Code genome
+
+One chromosome, many languages. The bands trace the language bytes across my public, owned, non-fork repositories.
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/generated/code-genome-mobile.svg" />
+    <img src="./assets/generated/code-genome.svg" width="1200" alt="My code genome: chromosome bands sized by GitHub language bytes, with a percentage legend showing public repository composition." />
+  </picture>
+</p>
+
+<p align="right"><sub>Repository composition · refreshed daily · <a href="./assets/generated/code-genome.json">View the data ↗</a></sub></p>
+
+<br />
+
+## Selected work
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>👨‍💻 Profile Overview</h4>
-      <p>
-        I am a <b>Bioinformatics B.Tech student</b> based in 📍 <b>Hyderabad, India</b>, specializing at the intersection of <b>Genomic Data Science</b>, <b>Systems Programming</b>, and <b>Embedded AI</b>.
-      </p>
-      <p>
-        I focus on building low-latency, offline-first architectures that bridge massive biological sequence datasets with high-performance vector search and edge hardware.
-      </p>
+      <sub>01 / GENOMIC DISCOVERY</sub>
+      <h3><a href="https://github.com/FaisalTabrez/Expedia">EXPEDIA ↗</a></h3>
+      <p>An offline Windows workspace for exploring deep-sea environmental DNA through genomic embeddings and vector search.</p>
+      <p><code>PyTorch</code> <code>LanceDB</code> <code>WinUI 3</code></p>
+      <sub>Sequence → representation → discovery</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Core Research & Focus</h4>
-      <ul>
-        <li>🧬 <b>Genomic AI:</b> Sequence representation learning & deep-sea eDNA inference</li>
-        <li>📟 <b>Edge Computing:</b> Deploying models on NVIDIA Jetson Nano/Orin platforms</li>
-        <li>🚀 <b>High-Performance RAG:</b> C++ engines with FAISS & <code>llama.cpp</code></li>
-        <li>🏎️ <b>Vector Databases:</b> Streaming data pipelines & similarity search engines</li>
-      </ul>
+      <sub>02 / ADAPTIVE INTELLIGENCE</sub>
+      <h3><a href="https://github.com/FaisalTabrez/A-SNN">A-SNN / AMMC ↗</a></h3>
+      <p>An exploratory spiking-neural-network research workspace with a visual browser sandbox, tensor experiments, and documented causal audits.</p>
+      <p><code>Python</code> <code>JavaScript</code> <code>Research tooling</code></p>
+      <sub>Hypothesis → experiment → evidence</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / COMPUTATIONAL BIOLOGY</sub>
+      <h3><a href="https://github.com/FaisalTabrez/LUAD_Perceptron_v2">LUAD Cellular Perceptron ↗</a></h3>
+      <p>An in silico research pipeline exploring miRNA biomarkers, cellular logic gates, RNA sensor design, and biophysical simulation.</p>
+      <p><code>Python</code> <code>Scanpy</code> <code>SciPy</code></p>
+      <sub>Biomarker → logic → simulation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / MICROBIAL ECOLOGY</sub>
+      <h3><a href="https://github.com/FaisalTabrez/MicroNet">MicroNet ↗</a></h3>
+      <p>Reconstructing microbial ecological networks from metagenomics through co-occurrence analysis, Bayesian inference, and graph neural networks.</p>
+      <p><code>Python</code> <code>R</code> <code>Snakemake</code></p>
+      <sub>Community → interaction → network</sub>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Domain-Bioinformatics%20%26%20Genomic%20AI-2ecc71?style=for-the-badge&logo=dna&logoColor=white" alt="Domain" />
-  <img src="https://img.shields.io/badge/Architecture-C%2B%2B%20%26%20Offline%20RAG-00f2fe?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Hardware-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
-</div>
+<p align="right">
+  <a href="https://github.com/FaisalTabrez?tab=repositories">Explore the rest of the lab ↗</a>
+</p>
 
----
+<br />
 
-### 💻 Technologies & Languages
+## The workbench
 
-<div align="center">
-
-  <!-- Interactive SkillIcons Grid -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,cmake,git,github,vscode,pytorch,html,css,js,docker&perline=7" alt="Languages and Tools" />
-    </a>
-  </p>
-
-  <br />
-
-  <!-- Categorized Badges -->
-  <h4>Programming Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-
-  <h4>AI, Genomics & Data Science</h4>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  </p>
-
-  <h4>Systems & Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-unserori.vercel.app/?username=FaisalTabrez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,bash,pytorch,linux,docker,git,cmake,html,css&amp;perline=6" width="360" alt="Python, C++, C, JavaScript, Bash, PyTorch, Linux, Docker, Git, CMake, HTML, and CSS" />
   </a>
-</div>
+</p>
 
----
-
-### 📈 GitHub Stats & Streak
-
-<div align="center">
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=FaisalTabrez&theme=tokyonight" alt="GitHub Streak Stats" />
-  </p>
-</div>
-
----
-
-### 📊 3D Contribution Grid
-
-<div align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=FaisalTabrez&theme=dark" alt="3D GitHub Contributions" />
-</div>
+| Layer | What I work with |
+| :--- | :--- |
+| **Languages** | Python · C++ · C · Bash · JavaScript |
+| **Models & data** | PyTorch · NumPy · Pandas · Jupyter · genomic embeddings |
+| **Search & local AI** | FAISS · LanceDB · llama.cpp · offline RAG |
+| **Systems & hardware** | Linux · CMake · Docker · NVIDIA Jetson · Git |
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FaisalTabrez/FaisalTabrez/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions Workflow" />
-</div>
+## GitHub in motion
+
+### The trophy cabinet
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=FaisalTabrez&amp;theme=matrix&amp;no-frame=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" width="600" alt="Live GitHub profile trophies for FaisalTabrez" />
+  </a>
+</p>
+
+### By the numbers
+
+<p align="center">
+  <a href="https://github.com/FaisalTabrez">
+    <img src="https://github-readme-stats.vercel.app/api?username=FaisalTabrez&amp;show_icons=true&amp;bg_color=172d25&amp;title_color=d7ff73&amp;text_color=f3f0e7&amp;icon_color=d7ff73&amp;hide_border=true" width="400" alt="FaisalTabrez's live GitHub statistics" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=FaisalTabrez&amp;background=172D25&amp;border=172D25&amp;stroke=D7FF73&amp;ring=D7FF73&amp;fire=D54B32&amp;currStreakNum=F3F0E7&amp;sideNums=F3F0E7&amp;currStreakLabel=D7FF73&amp;sideLabels=D7FF73&amp;dates=B2C6B8&amp;hide_border=true" width="400" alt="Current and longest GitHub contribution streaks" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FaisalTabrez?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalTabrez&amp;layout=compact&amp;bg_color=172d25&amp;title_color=d7ff73&amp;text_color=f3f0e7&amp;hide_border=true" width="400" alt="Language breakdown across public repositories" />
+  </a>
+</p>
+
+### The activity signal
+
+<p align="center">
+  <a href="https://github.com/FaisalTabrez?tab=overview">
+    <img src="./assets/generated/activity.svg" width="1200" alt="Daily GitHub contributions across the most recent 31 days" />
+  </a>
+</p>
+
+### A year in three dimensions
+
+<p align="center">
+  <a href="https://github.com/FaisalTabrez?tab=overview">
+    <img src="./assets/generated/contributions-3d.svg" width="1200" alt="An isometric landscape of real GitHub contributions: one column per day, with height proportional to the contribution count" />
+  </a>
+</p>
+
+### Feeding the contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/snake.svg" />
+    <img src="./assets/generated/snake.svg" width="1200" alt="An animated snake traveling through FaisalTabrez's GitHub contribution calendar" />
+  </picture>
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalTabrez&theme=tokyo-night" alt="GitHub Activity Graph" />
-</div>
+### A few questions that keep me building
 
----
+- How much biological structure can we recover from a sequence representation?
+- What would it take for an adaptive model to earn our trust?
+- How much intelligence can we bring offline, onto smaller hardware?
 
-<div align="center">
-  <p>⚡ <i>Building high-performance bioinformatics tools, edge intelligence, and offline RAG systems.</i></p>
-</div>
+<br />
+
+<p>
+  <img src="./assets/lab-footer.svg" width="1200" alt="Observe. Model. Build. Question. Repeat." />
+</p>
+
+<p align="center">
+  Interested in bioinformatics, research software, or local AI?<br />
+  <a href="mailto:mfaisaltabrez_cse230535@mgit.ac.in"><strong>Let's compare notes ↗</strong></a>
+</p>

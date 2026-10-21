@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">The process</title>
+  <desc id="desc">Observe. Model. Build. Question. Repeat. A continuous line links each step.</desc>
+  <rect width="1200" height="110" fill="#172D25" />
+  <path d="M39 35H1161" stroke="#D7FF73" stroke-opacity=".3" />
+  <path d="M1151 31L1161 35L1151 39" stroke="#D7FF73" />
+  <g fill="#D7FF73">
+    <circle cx="42" cy="35" r="4" /><circle cx="280" cy="35" r="4" />
+    <circle cx="518" cy="35" r="4" /><circle cx="756" cy="35" r="4" />
+    <circle cx="994" cy="35" r="4" />
+  </g>
+  <g font-family="'Courier New',monospace" font-size="12" fill="#D7FF73">
+    <text x="42" y="22">01</text><text x="280" y="22">02</text>
+    <text x="518" y="22">03</text><text x="756" y="22">04</text>
+    <text x="994" y="22">↺</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#F3F0E7">
+    <text x="42" y="80">Observe.</text><text x="280" y="80">Model.</text>
+    <text x="518" y="80">Build.</text><text x="756" y="80">Question.</text>
+    <text x="994" y="80">Repeat.</text>
+  </g>
+</svg>
