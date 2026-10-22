@@ -5,7 +5,7 @@
 <g font-family="Arial,sans-serif" fill="#f3f0e7">
 <text x="32" y="35" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">THE CODE GENOME / FT—01</text>
 <text x="32" y="85" font-size="34" font-weight="700">A fingerprint, written in code.</text>
-<text x="32" y="119" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">38 REPOSITORIES / 22 LANGUAGES</text>
+<text x="32" y="119" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">39 REPOSITORIES / 22 LANGUAGES</text>
 <path d="M32 143H608" stroke="#b2c6b8" stroke-opacity=".25"/>
 <g transform="translate(65 71) scale(.9)">
 <defs><clipPath id="chromosome"><path d="M190 175 C180 150 192 128 216 126 C234 124 246 136 252 153 L284 254 L316 153 C322 136 334 124 352 126 C376 128 388 150 378 175 L329 323 L378 471 C388 496 376 518 352 520 C334 522 322 510 316 493 L284 392 L252 493 C246 510 234 522 216 520 C192 518 180 496 190 471 L239 323Z"/></clipPath></defs>
@@ -104,6 +104,6 @@
 <rect x="603.40936" y="1014" width="4.59064" height="12" fill="#789184"/>
 </g>
 <text x="32" y="1064" font-family="monospace" font-size="14" text-anchor="start" fill="#b2c6b8">BAND LENGTH = SHARE OF LANGUAGE BYTES</text>
-<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-10-21</text>
+<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-10-22</text>
 </g>
 </svg>
