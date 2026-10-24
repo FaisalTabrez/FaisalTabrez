@@ -5,18 +5,18 @@
 <g font-family="Arial,sans-serif" fill="#f3f0e7">
 <text x="32" y="35" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">THE CODE GENOME / FT—01</text>
 <text x="32" y="85" font-size="34" font-weight="700">A fingerprint, written in code.</text>
-<text x="32" y="119" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">39 REPOSITORIES / 22 LANGUAGES</text>
+<text x="32" y="119" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">40 REPOSITORIES / 22 LANGUAGES</text>
 <path d="M32 143H608" stroke="#b2c6b8" stroke-opacity=".25"/>
 <g transform="translate(65 71) scale(.9)">
 <defs><clipPath id="chromosome"><path d="M190 175 C180 150 192 128 216 126 C234 124 246 136 252 153 L284 254 L316 153 C322 136 334 124 352 126 C376 128 388 150 378 175 L329 323 L378 471 C388 496 376 518 352 520 C334 522 322 510 316 493 L284 392 L252 493 C246 510 234 522 216 520 C192 518 180 496 190 471 L239 323Z"/></clipPath></defs>
 <g clip-path="url(#chromosome)">
-<rect x="170" y="124.00000" width="220" height="281.84521" fill="#d7ff73"><title>HTML: 70.82%</title></rect>
-<rect x="170" y="405.84521" width="220" height="87.23650" fill="#a4c9bb"><title>Python: 21.92%</title></rect>
-<rect x="170" y="493.08171" width="220" height="11.67852" fill="#e7c87a"><title>Jupyter Notebook: 2.93%</title></rect>
-<rect x="170" y="504.76024" width="220" height="9.23275" fill="#b4a2d8"><title>TypeScript: 2.32%</title></rect>
-<rect x="170" y="513.99299" width="220" height="2.63438" fill="#df947b"><title>JavaScript: 0.66%</title></rect>
-<rect x="170" y="516.62737" width="220" height="2.20063" fill="#80bcd2"><title>CSS: 0.55%</title></rect>
-<rect x="170" y="518.82800" width="220" height="3.17200" fill="#789184"><title>Other · 16 languages: 0.80%</title></rect>
+<rect x="170" y="124.00000" width="220" height="281.86457" fill="#d7ff73"><title>HTML: 70.82%</title></rect>
+<rect x="170" y="405.86457" width="220" height="87.22196" fill="#a4c9bb"><title>Python: 21.92%</title></rect>
+<rect x="170" y="493.08654" width="220" height="11.67658" fill="#e7c87a"><title>Jupyter Notebook: 2.93%</title></rect>
+<rect x="170" y="504.76311" width="220" height="9.23121" fill="#b4a2d8"><title>TypeScript: 2.32%</title></rect>
+<rect x="170" y="513.99432" width="220" height="2.63394" fill="#df947b"><title>JavaScript: 0.66%</title></rect>
+<rect x="170" y="516.62827" width="220" height="2.20026" fill="#80bcd2"><title>CSS: 0.55%</title></rect>
+<rect x="170" y="518.82853" width="220" height="3.17147" fill="#789184"><title>Other · 16 languages: 0.80%</title></rect>
 <path d="M176 132H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
 <path d="M176 141H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
 <path d="M176 150H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
@@ -95,15 +95,15 @@
 <text x="607" y="928" font-family="monospace" font-size="20" text-anchor="end" fill="#789184">0.80%</text>
 <path d="M33 946H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <defs><clipPath id="track"><rect x="32" y="1014" width="576" height="12" rx="6"/></clipPath></defs><g clip-path="url(#track)">
-<rect x="32.00000" y="1014" width="407.89659" height="12" fill="#d7ff73"/>
-<rect x="439.89659" y="1014" width="126.25182" height="12" fill="#a4c9bb"/>
-<rect x="566.14841" y="1014" width="16.90158" height="12" fill="#e7c87a"/>
-<rect x="583.04999" y="1014" width="13.36197" height="12" fill="#b4a2d8"/>
-<rect x="596.41196" y="1014" width="3.81258" height="12" fill="#df947b"/>
-<rect x="600.22454" y="1014" width="3.18483" height="12" fill="#80bcd2"/>
-<rect x="603.40936" y="1014" width="4.59064" height="12" fill="#789184"/>
+<rect x="32.00000" y="1014" width="407.92461" height="12" fill="#d7ff73"/>
+<rect x="439.92461" y="1014" width="126.23078" height="12" fill="#a4c9bb"/>
+<rect x="566.15539" y="1014" width="16.89876" height="12" fill="#e7c87a"/>
+<rect x="583.05415" y="1014" width="13.35974" height="12" fill="#b4a2d8"/>
+<rect x="596.41389" y="1014" width="3.81194" height="12" fill="#df947b"/>
+<rect x="600.22583" y="1014" width="3.18430" height="12" fill="#80bcd2"/>
+<rect x="603.41013" y="1014" width="4.58987" height="12" fill="#789184"/>
 </g>
 <text x="32" y="1064" font-family="monospace" font-size="14" text-anchor="start" fill="#b2c6b8">BAND LENGTH = SHARE OF LANGUAGE BYTES</text>
-<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-10-23</text>
+<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-10-24</text>
 </g>
 </svg>
