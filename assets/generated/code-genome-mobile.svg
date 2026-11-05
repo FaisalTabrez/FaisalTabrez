@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="1120" viewBox="0 0 640 1120" role="img" aria-labelledby="title desc">
 <title id="title">The code genome of Faisal Tabrez</title>
-<desc id="desc">Chromosome band lengths encode GitHub language byte shares. HTML: 70.25%; Python: 22.00%; Jupyter Notebook: 3.09%; TypeScript: 2.30%; JavaScript: 0.80%; CSS: 0.56%; Other · 18 languages: 1.00%. Public, owned, non-fork repository composition.</desc>
+<desc id="desc">Chromosome band lengths encode GitHub language byte shares. HTML: 70.35%; Python: 22.04%; Jupyter Notebook: 3.09%; TypeScript: 2.30%; JavaScript: 0.81%; CSS: 0.56%; Other · 18 languages: 0.85%. Public, owned, non-fork repository composition.</desc>
 <rect width="640" height="1120" rx="8" fill="#172d25"/>
 <g font-family="Arial,sans-serif" fill="#f3f0e7">
 <text x="32" y="35" font-family="monospace" font-size="15" text-anchor="start" fill="#b2c6b8">THE CODE GENOME / FT—01</text>
@@ -10,13 +10,13 @@
 <g transform="translate(65 71) scale(.9)">
 <defs><clipPath id="chromosome"><path d="M190 175 C180 150 192 128 216 126 C234 124 246 136 252 153 L284 254 L316 153 C322 136 334 124 352 126 C376 128 388 150 378 175 L329 323 L378 471 C388 496 376 518 352 520 C334 522 322 510 316 493 L284 392 L252 493 C246 510 234 522 216 520 C192 518 180 496 190 471 L239 323Z"/></clipPath></defs>
 <g clip-path="url(#chromosome)">
-<rect x="170" y="124.00000" width="220" height="279.57892" fill="#d7ff73"><title>HTML: 70.25%</title></rect>
-<rect x="170" y="403.57892" width="220" height="87.57018" fill="#a4c9bb"><title>Python: 22.00%</title></rect>
-<rect x="170" y="491.14910" width="220" height="12.29362" fill="#e7c87a"><title>Jupyter Notebook: 3.09%</title></rect>
-<rect x="170" y="503.44273" width="220" height="9.15141" fill="#b4a2d8"><title>TypeScript: 2.30%</title></rect>
-<rect x="170" y="512.59414" width="220" height="3.20192" fill="#df947b"><title>JavaScript: 0.80%</title></rect>
-<rect x="170" y="515.79606" width="220" height="2.22416" fill="#80bcd2"><title>CSS: 0.56%</title></rect>
-<rect x="170" y="518.02021" width="220" height="3.97979" fill="#789184"><title>Other · 18 languages: 1.00%</title></rect>
+<rect x="170" y="124.00000" width="220" height="280.00513" fill="#d7ff73"><title>HTML: 70.35%</title></rect>
+<rect x="170" y="404.00513" width="220" height="87.70368" fill="#a4c9bb"><title>Python: 22.04%</title></rect>
+<rect x="170" y="491.70881" width="220" height="12.31236" fill="#e7c87a"><title>Jupyter Notebook: 3.09%</title></rect>
+<rect x="170" y="504.02117" width="220" height="9.16536" fill="#b4a2d8"><title>TypeScript: 2.30%</title></rect>
+<rect x="170" y="513.18654" width="220" height="3.20680" fill="#df947b"><title>JavaScript: 0.81%</title></rect>
+<rect x="170" y="516.39334" width="220" height="2.22755" fill="#80bcd2"><title>CSS: 0.56%</title></rect>
+<rect x="170" y="518.62088" width="220" height="3.37912" fill="#789184"><title>Other · 18 languages: 0.85%</title></rect>
 <path d="M176 132H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
 <path d="M176 141H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
 <path d="M176 150H391" stroke="#172d25" stroke-opacity=".14" stroke-width="1"/>
@@ -68,11 +68,11 @@
 <text x="568" y="557" font-family="monospace" font-size="14" text-anchor="end" fill="#b2c6b8">100%</text>
 <rect x="33" y="570" width="16" height="16" rx="3" fill="#d7ff73"/>
 <text x="64" y="586" font-size="23">HTML</text>
-<text x="607" y="586" font-family="monospace" font-size="20" text-anchor="end" fill="#d7ff73">70.25%</text>
+<text x="607" y="586" font-family="monospace" font-size="20" text-anchor="end" fill="#d7ff73">70.35%</text>
 <path d="M33 604H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <rect x="33" y="627" width="16" height="16" rx="3" fill="#a4c9bb"/>
 <text x="64" y="643" font-size="23">Python</text>
-<text x="607" y="643" font-family="monospace" font-size="20" text-anchor="end" fill="#a4c9bb">22.00%</text>
+<text x="607" y="643" font-family="monospace" font-size="20" text-anchor="end" fill="#a4c9bb">22.04%</text>
 <path d="M33 661H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <rect x="33" y="684" width="16" height="16" rx="3" fill="#e7c87a"/>
 <text x="64" y="700" font-size="23">Jupyter Notebook</text>
@@ -84,7 +84,7 @@
 <path d="M33 775H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <rect x="33" y="798" width="16" height="16" rx="3" fill="#df947b"/>
 <text x="64" y="814" font-size="23">JavaScript</text>
-<text x="607" y="814" font-family="monospace" font-size="20" text-anchor="end" fill="#df947b">0.80%</text>
+<text x="607" y="814" font-family="monospace" font-size="20" text-anchor="end" fill="#df947b">0.81%</text>
 <path d="M33 832H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <rect x="33" y="855" width="16" height="16" rx="3" fill="#80bcd2"/>
 <text x="64" y="871" font-size="23">CSS</text>
@@ -92,18 +92,18 @@
 <path d="M33 889H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <rect x="33" y="912" width="16" height="16" rx="3" fill="#789184"/>
 <text x="64" y="928" font-size="23">Other · 18 languages</text>
-<text x="607" y="928" font-family="monospace" font-size="20" text-anchor="end" fill="#789184">1.00%</text>
+<text x="607" y="928" font-family="monospace" font-size="20" text-anchor="end" fill="#789184">0.85%</text>
 <path d="M33 946H607" stroke="#b2c6b8" stroke-opacity=".15"/>
 <defs><clipPath id="track"><rect x="32" y="1014" width="576" height="12" rx="6"/></clipPath></defs><g clip-path="url(#track)">
-<rect x="32.00000" y="1014" width="404.61673" height="12" fill="#d7ff73"/>
-<rect x="436.61673" y="1014" width="126.73474" height="12" fill="#a4c9bb"/>
-<rect x="563.35147" y="1014" width="17.79178" height="12" fill="#e7c87a"/>
-<rect x="581.14324" y="1014" width="13.24426" height="12" fill="#b4a2d8"/>
-<rect x="594.38750" y="1014" width="4.63393" height="12" fill="#df947b"/>
-<rect x="599.02143" y="1014" width="3.21888" height="12" fill="#80bcd2"/>
-<rect x="602.24031" y="1014" width="5.75969" height="12" fill="#789184"/>
+<rect x="32.00000" y="1014" width="405.23355" height="12" fill="#d7ff73"/>
+<rect x="437.23355" y="1014" width="126.92794" height="12" fill="#a4c9bb"/>
+<rect x="564.16149" y="1014" width="17.81890" height="12" fill="#e7c87a"/>
+<rect x="581.98039" y="1014" width="13.26445" height="12" fill="#b4a2d8"/>
+<rect x="595.24484" y="1014" width="4.64100" height="12" fill="#df947b"/>
+<rect x="599.88583" y="1014" width="3.22379" height="12" fill="#80bcd2"/>
+<rect x="603.10962" y="1014" width="4.89038" height="12" fill="#789184"/>
 </g>
 <text x="32" y="1064" font-family="monospace" font-size="14" text-anchor="start" fill="#b2c6b8">BAND LENGTH = SHARE OF LANGUAGE BYTES</text>
-<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-11-04</text>
+<text x="32" y="1095" font-family="monospace" font-size="13" text-anchor="start" fill="#b2c6b8">PUBLIC / OWNED / NON-FORK · 2026-11-05</text>
 </g>
 </svg>
