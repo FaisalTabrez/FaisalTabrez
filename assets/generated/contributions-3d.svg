@@ -1218,6 +1218,10 @@
 <path d="M725.2,374.1l8,4v5.9l-8,-4Z" fill="#537c4d" opacity=".45"/>
 <path d="M733.2,378.1l8,-4v5.9l-8,4Z" fill="#537c4d" opacity=".7"/>
 <path d="M725.2,374.1l8,-4l8,4l-8,4Z" fill="#537c4d" stroke="#172d25" stroke-width=".5"/></g>
+<g><title>2026-11-20: 0 contributions</title>
+<path d="M1095.0,379.2l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
+<path d="M1103.0,383.2l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
+<path d="M1095.0,379.2l8,-4l8,4l-8,4Z" fill="#294238" stroke="#172d25" stroke-width=".5"/></g>
 <g><title>2026-06-21: 0 contributions</title>
 <path d="M637.3,379.6l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
 <path d="M645.3,383.6l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
@@ -1302,6 +1306,10 @@
 <path d="M711.2,361.6l8,4v29.4l-8,-4Z" fill="#b2d76b" opacity=".45"/>
 <path d="M719.2,365.6l8,-4v29.4l-8,4Z" fill="#b2d76b" opacity=".7"/>
 <path d="M711.2,361.6l8,-4l8,4l-8,4Z" fill="#b2d76b" stroke="#172d25" stroke-width=".5"/></g>
+<g><title>2026-11-19: 0 contributions</title>
+<path d="M1081.0,390.2l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
+<path d="M1089.0,394.2l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
+<path d="M1081.0,390.2l8,-4l8,4l-8,4Z" fill="#294238" stroke="#172d25" stroke-width=".5"/></g>
 <g><title>2026-10-21: 7 contributions</title>
 <path d="M993.2,382.2l8,4v9.6l-8,-4Z" fill="#537c4d" opacity=".45"/>
 <path d="M1001.2,386.2l8,-4v9.6l-8,4Z" fill="#537c4d" opacity=".7"/>
@@ -1479,6 +1487,6 @@
 <path d="M1033.0,438.2l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
 <path d="M1025.0,434.2l8,-4l8,4l-8,4Z" fill="#294238" stroke="#172d25" stroke-width=".5"/></g>
 <path d="M42 477H1158" stroke="#b2c6b8" stroke-opacity=".2"/>
-<text x="42" y="512" class="label">2025-11-16 → 2026-11-18</text>
+<text x="42" y="512" class="label">2025-11-16 → 2026-11-20</text>
 <text x="1158" y="512" text-anchor="end" class="label">PEAK 81 / DAY · LINEAR HEIGHT</text>
 </svg>
