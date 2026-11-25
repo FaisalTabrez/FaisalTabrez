@@ -4,7 +4,7 @@
 <rect width="1200" height="540" rx="8" fill="#172d25"/>
 <style>text{font-family:Arial,sans-serif;fill:#f3f0e7}.label{font-family:monospace;font-size:13px;letter-spacing:1.5px;fill:#b2c6b8}</style>
 <text x="42" y="38" class="label">CONTRIBUTION TOPOGRAPHY / ONE COLUMN PER DAY</text>
-<text x="42" y="81" font-size="28" font-weight="700">996 contributions. A year of building.</text>
+<text x="42" y="81" font-size="28" font-weight="700">1,013 contributions. A year of building.</text>
 <path d="M42 107H1158" stroke="#b2c6b8" stroke-opacity=".2"/>
 <g><title>2025-11-29: 2 contributions</title>
 <path d="M149.0,228.6l8,4v5.4l-8,-4Z" fill="#537c4d" opacity=".45"/>
@@ -1366,6 +1366,10 @@
 <path d="M785.0,396.0l8,4v5.4l-8,-4Z" fill="#537c4d" opacity=".45"/>
 <path d="M793.0,400.0l8,-4v5.4l-8,4Z" fill="#537c4d" opacity=".7"/>
 <path d="M785.0,396.0l8,-4l8,4l-8,4Z" fill="#537c4d" stroke="#172d25" stroke-width=".5"/></g>
+<g><title>2026-11-25: 4 contributions</title>
+<path d="M1067.0,392.3l8,4v9.9l-8,-4Z" fill="#537c4d" opacity=".45"/>
+<path d="M1075.0,396.3l8,-4v9.9l-8,4Z" fill="#537c4d" opacity=".7"/>
+<path d="M1067.0,392.3l8,-4l8,4l-8,4Z" fill="#537c4d" stroke="#172d25" stroke-width=".5"/></g>
 <g><title>2026-10-27: 0 contributions</title>
 <path d="M979.2,401.8l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
 <path d="M987.2,405.8l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
@@ -1414,10 +1418,10 @@
 <path d="M858.8,410.8l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
 <path d="M866.8,414.8l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
 <path d="M858.8,410.8l8,-4l8,4l-8,4Z" fill="#294238" stroke="#172d25" stroke-width=".5"/></g>
-<g><title>2026-11-24: 8 contributions</title>
-<path d="M1053.0,394.4l8,4v18.8l-8,-4Z" fill="#537c4d" opacity=".45"/>
-<path d="M1061.0,398.4l8,-4v18.8l-8,4Z" fill="#537c4d" opacity=".7"/>
-<path d="M1053.0,394.4l8,-4l8,4l-8,4Z" fill="#537c4d" stroke="#172d25" stroke-width=".5"/></g>
+<g><title>2026-11-24: 21 contributions</title>
+<path d="M1053.0,365.5l8,4v47.7l-8,-4Z" fill="#84af59" opacity=".45"/>
+<path d="M1061.0,369.5l8,-4v47.7l-8,4Z" fill="#84af59" opacity=".7"/>
+<path d="M1053.0,365.5l8,-4l8,4l-8,4Z" fill="#84af59" stroke="#172d25" stroke-width=".5"/></g>
 <g><title>2026-10-26: 0 contributions</title>
 <path d="M965.2,412.8l8,4v1.0l-8,-4Z" fill="#294238" opacity=".45"/>
 <path d="M973.2,416.8l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
@@ -1475,6 +1479,6 @@
 <path d="M1033.0,438.2l8,-4v1.0l-8,4Z" fill="#294238" opacity=".7"/>
 <path d="M1025.0,434.2l8,-4l8,4l-8,4Z" fill="#294238" stroke="#172d25" stroke-width=".5"/></g>
 <path d="M42 477H1158" stroke="#b2c6b8" stroke-opacity=".2"/>
-<text x="42" y="512" class="label">2025-11-23 → 2026-11-24</text>
+<text x="42" y="512" class="label">2025-11-23 → 2026-11-25</text>
 <text x="1158" y="512" text-anchor="end" class="label">PEAK 45 / DAY · LINEAR HEIGHT</text>
 </svg>
